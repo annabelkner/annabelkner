@@ -1,4 +1,6 @@
-# Hi, I'm Anna! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20Anna"/>
+</p>
 
 - 🧑‍🎓 I am a Data Analysis student at University of Łódź
 - 🌱 I’m currently learning Python, VBA, R and SQL
