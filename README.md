@@ -27,5 +27,3 @@
 ### ⚡ Recent Activity
 
 ---
-
-Thanks for stopping by!
