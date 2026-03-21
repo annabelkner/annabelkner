@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python, VBA, R and SQL
 - 📚 How to reach me: ania.belkner@gmail.com or ul0287172@edu.uni.lodz.pl
 - 🐠 Fun fact: I like learning about fishes, my favourite species is Opistognathus aurifrons
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabelkner&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ## Some Tools I Have Used and Learned
