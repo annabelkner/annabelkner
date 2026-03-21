@@ -6,5 +6,3 @@
 - 🐠 Fun fact: I like learning about fishes, my favourite species is Opistognathus aurifrons
 
 Thanks for stopping by!
-
-![annabelkner's Stats](https://github-readme-stats.vercel.app/api?username=annabelkner&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
