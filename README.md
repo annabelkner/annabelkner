@@ -8,7 +8,7 @@
 - 🐠 Fun fact: I like learning about fishes, my favourite species is Opistognathus aurifrons
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabelkner&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabelkner&size_weight=0.5&count_weight=0.5&layout=compact&hide=HTML" alt="Top Langs" />
 </p>
 
 ## Some Tools I Have Used and Learned
@@ -23,6 +23,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ⚡ Recent Activity
-
----
